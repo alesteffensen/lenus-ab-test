@@ -11,6 +11,8 @@
 // @connect      docs.google.com
 // @connect      spreadsheets.google.com
 // @connect      googleusercontent.com
+// @updateURL    https://github.com/alesteffensen/lenus-ab-test/raw/refs/heads/main/lenus-ab-testing.user.js
+// @downloadURL  https://github.com/alesteffensen/lenus-ab-test/raw/refs/heads/main/lenus-ab-testing.user.js
 // @run-at       document-idle
 // ==/UserScript==
 
